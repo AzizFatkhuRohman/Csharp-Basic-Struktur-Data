@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\StrukturData\bin\Debug\net6.0\StrukturData.exe
+C:\Users\USER\source\repos\StrukturData\bin\Debug\net6.0\StrukturData.deps.json
+C:\Users\USER\source\repos\StrukturData\bin\Debug\net6.0\StrukturData.runtimeconfig.json
+C:\Users\USER\source\repos\StrukturData\bin\Debug\net6.0\StrukturData.dll
+C:\Users\USER\source\repos\StrukturData\bin\Debug\net6.0\StrukturData.pdb
+C:\Users\USER\source\repos\StrukturData\obj\Debug\net6.0\StrukturData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\StrukturData\obj\Debug\net6.0\StrukturData.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StrukturData\obj\Debug\net6.0\StrukturData.AssemblyInfo.cs
+C:\Users\USER\source\repos\StrukturData\obj\Debug\net6.0\StrukturData.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StrukturData\obj\Debug\net6.0\StrukturData.dll
+C:\Users\USER\source\repos\StrukturData\obj\Debug\net6.0\refint\StrukturData.dll
+C:\Users\USER\source\repos\StrukturData\obj\Debug\net6.0\StrukturData.pdb
+C:\Users\USER\source\repos\StrukturData\obj\Debug\net6.0\StrukturData.genruntimeconfig.cache
+C:\Users\USER\source\repos\StrukturData\obj\Debug\net6.0\ref\StrukturData.dll
